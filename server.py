@@ -6,7 +6,6 @@ import functools
 import aiohttp
 
 #API Key
-# AIzaSyBwhRI0LD4EPBfEm4SjRsEuILreWwra05M
 clientDict = {}
 
 class TCP_Protocol(asyncio.Protocol):
